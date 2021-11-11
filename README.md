@@ -14,5 +14,3 @@ Click-through rate (CTR) Prediction
 ### Professional Methods:
   * **Factorization Machines (FM)**
   * **Field Weighted Factorization Machines (FwFMs)** 
-
-Achieved better results than classical methods.
