@@ -6,13 +6,13 @@ Machine Learning course at CE@SUT
 Click-through rate (CTR) Prediction
 
 ### Classical Methods: 
-- SVM
-- Logistic Regression
-- XGBoost 
-- Random Forest<br />
+  * Logistic Regression
+  * SVM
+  * Random Forest
+  * XGBoost <br />
 
 ### Professional Methods:
-- **Factorization Machines (FM)**
-- **Field Weighted Factorization Machines (FwFMs)** 
+  * **Factorization Machines (FM)**
+  * **Field Weighted Factorization Machines (FwFMs)** 
 
 Achieved better results than classical methods.
